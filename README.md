@@ -1,4 +1,4 @@
 # webServer
-my tiny webn server
+my tiny web server
 
-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
+token: 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
