@@ -2,3 +2,4 @@
 my tiny web server
 
 token: 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
+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
